@@ -7,7 +7,6 @@
 - curl "http://shakespeare.mit.edu/hamlet/full.html" -O rrplay.txt
 - $ grep -i 'MARCELLUS' rrplay.txt -c
 - $ grep -i 'BERNARDO' rrplay.txt -c
-- $ grep -i 'MARCELLUS' rrplay.txt -c > "marcellus-output.txt"
-- $ grep -i 'BERNARDO' rrplay.txt -c > "bernardo-output.txt"
+
 ## Speaker whose name repeated more.
 - The answer is Marcellus.
